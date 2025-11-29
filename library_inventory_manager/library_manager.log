@@ -1,0 +1,9 @@
+2025-11-29 15:50:41,861 | INFO | DB file does not exist; starting with empty catalog.
+2025-11-29 15:52:23,576 | INFO | Added book: Python Basics
+2025-11-29 15:52:23,578 | INFO | Saved 1 books to books.json
+2025-11-29 15:52:36,376 | INFO | Displaying all books: 1 total
+2025-11-29 15:52:44,445 | INFO | Displaying all books: 1 total
+2025-11-29 15:52:59,856 | INFO | Issued book: Python Basics
+2025-11-29 15:52:59,858 | INFO | Saved 1 books to books.json
+2025-11-29 15:53:20,296 | INFO | Returned book: Python Basics
+2025-11-29 15:53:20,297 | INFO | Saved 1 books to books.json
